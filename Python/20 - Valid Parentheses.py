@@ -13,3 +13,4 @@ class Solution:
                  return False
 
         return False if stack else True
+
