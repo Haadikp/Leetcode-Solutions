@@ -11,3 +11,4 @@ class Solution:
                     length -= 1
                     
         return compare[0:length]
+
