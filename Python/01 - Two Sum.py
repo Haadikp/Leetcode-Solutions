@@ -8,3 +8,4 @@ class Solution:
             if complement in index:
                 return [index[complement], i]
             index[num] = i
+
